@@ -1,0 +1,38 @@
+i{
+font-size: 40px;
+
+}
+
+.vav{
+	width: 10%;
+	height: 550px;
+	background-image:linear-gradient(to right,#5E5EFF,#3D3DE3);
+
+}
+
+.vav button{
+	width: 100%;
+	height:10%;
+	background-color: transparent;
+	border: transparent;
+	text-align: center;
+	color:white;
+
+	
+}
+
+button hover{
+	color:white;
+	background-color: dodgerblue;
+}
+
+h1{
+	text-align: center;
+}
+#pl{
+	float:left;
+	 position: absolute;
+	 left: 22%;
+	 top: 12%;
+}
+
